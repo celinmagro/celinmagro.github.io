@@ -2,5 +2,5 @@ h2 {
     font-size: 30px;
     font-family: 'Press Start 2P', Arial, Helvetica, sans-serif;
     text-shadow: 4px 4px 0px #000;
-    color: #FFF;
+    color: var(--color-third);
 }
