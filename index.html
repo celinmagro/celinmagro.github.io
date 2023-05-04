@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="css/components/box.css">
     <link rel="stylesheet" href="css/components/action.css">
     <link rel="stylesheet" href="css/components/trick-tech.css">
+    <link rel="stylesheet" href="css/components/progress-bar.css">
 </head>
 <body>
     <header class="header">
@@ -45,15 +46,15 @@
     <section class="skills">
         <h2 class="main-title -second">Skills</h2>
 
-        <dl class="trick-tech">
-            <dt class="title">HTML</dt>
-            <dd class="icon">
-                <img src="img/ico_html5.png" alt="Logo HTML5 em Pixelart">
-            </dd>
-            <dd class="bar">
-                <progress max="100" value="70">70%</progress>
-            </dd>
-        </dl>
+        <article class="trick-tech">
+            <img class="icon" src="img/ico_html5.png" alt="Logo HTML5 em Pixelart">
+            <div class="right">
+                <h3 class="title">HTML</h3>
+                <progress class="progress-bar" max="100" value="70">
+                    70%
+                </progress>
+            </div>
+        </article>
     </section>
 </body>
 </html>

@@ -1,4 +1,5 @@
 .header {
+    font-family: 'Fira Code', Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: space-between;
     background-color: var(--color-second);
