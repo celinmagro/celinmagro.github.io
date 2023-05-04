@@ -3,6 +3,7 @@
     color: #FFF;
     font-size: 25px;
     display: flex;
+    align-items: center;
 }
 
 .trick-tech .icon {
