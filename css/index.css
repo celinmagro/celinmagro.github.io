@@ -14,3 +14,8 @@
     --color-success: #62C370;
     --color-warning: #CEB02A;
 }
+
+::selection {
+    background-color: var(--color-third);
+    text-shadow: none;
+}
