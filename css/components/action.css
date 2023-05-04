@@ -2,14 +2,20 @@
     display: inline-flex;
     align-items: center;
     color: var(--color-third);
-    font-size: 20px;
+    font-size: 19px;
     font-weight: 500;
     text-decoration: none;
     margin-right: 30px;
 }
 
+.action:hover {
+    color: var(--color-first);
+    transition: .2s;
+}
+
 .action::before {
     content: "";
+    border-radius: 50%;
     display: inline-block;
     background-color: var(--color-first);
     width: 10px;

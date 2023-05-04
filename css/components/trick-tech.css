@@ -8,10 +8,15 @@
 
 .trick-tech .icon {
     margin-right: 25px;
+    width: 90px;
 }
 
 .trick-tech .right {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+}
+
+.trick-tech .title {
+    margin-bottom: 10px;
 }
