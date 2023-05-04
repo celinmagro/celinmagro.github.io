@@ -16,6 +16,7 @@
 }
 
 ::selection {
-    background-color: var(--color-third);
+    background-color: rgb(61, 100, 255);
+    color: #FFF;
     text-shadow: none;
 }
