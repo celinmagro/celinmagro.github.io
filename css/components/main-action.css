@@ -1,4 +1,4 @@
-.action {
+.main-action {
     display: inline-flex;
     align-items: center;
     color: var(--color-third);
@@ -8,12 +8,12 @@
     margin-right: 30px;
 }
 
-.action:hover {
+.main-action:hover {
     color: var(--color-first);
     transition: .2s;
 }
 
-.action::before {
+.main-action::before {
     content: "";
     border-radius: 50%;
     display: inline-block;
