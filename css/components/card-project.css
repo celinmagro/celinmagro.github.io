@@ -7,3 +7,9 @@
     height: 280px;
     box-shadow: 10px 10px 0px #FFF;
 }
+
+.card-project.-blue {
+    background-color: var(--color-fourth);
+    margin-left: 130px;
+    margin-right: 130px;
+}

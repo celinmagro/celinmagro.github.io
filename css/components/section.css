@@ -10,6 +10,6 @@
 }
 
 .section.-project {
-    background-color: black;
-    border-bottom: 10px solid var(--color-first);
+    background-color: #000;
+    border-color: var(--color-first);
 }
