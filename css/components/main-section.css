@@ -13,3 +13,8 @@
     background-color: #000;
     border-color: var(--color-first);
 }
+
+.main-section.-sobre {
+    background-color: var(--color-second);
+    border-color: #000;
+}
