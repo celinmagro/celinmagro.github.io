@@ -34,3 +34,7 @@
     padding-right: 20px;
     background-color: var(--color-warning);
 }
+
+.node-card.-first .logo {
+    background-color: var(--color-first);
+}
