@@ -6,3 +6,7 @@
     height: 50px;
     padding: 0px 5px;
 }
+
+.main-input.-textarea {
+    height: 320px;
+}
