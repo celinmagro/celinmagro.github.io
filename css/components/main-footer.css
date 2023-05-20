@@ -8,4 +8,9 @@
 .main-footer .action {
     margin-right: 20px;
     margin-left: 20px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.main-footer .action:hover {
+    transform: scale(1.13);
 }
