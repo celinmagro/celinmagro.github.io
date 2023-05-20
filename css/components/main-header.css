@@ -6,3 +6,11 @@
     border-bottom: 10px solid #000;
     padding: 10px 20px;
 }
+
+.main-header .logo-icon {
+    transition: transform 0.15s ease-in-out;
+}
+
+.main-header .logo-icon:hover {
+    transform: scale(1.08);
+}
